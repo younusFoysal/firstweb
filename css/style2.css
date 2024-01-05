@@ -1,0 +1,52 @@
+
+ /* Universal */
+*{
+    margin: 0;
+    padding: 0;
+}
+
+ /* tag */
+h1{
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+/* ID -- Unique*/
+#p1{
+    background-color: lightskyblue;
+    border-left: 10px solid blue;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px 0 dodgerblue;
+    margin: 15px;
+    margin-bottom: 25px;
+    padding: 5px;
+
+}
+/* class - for a group of tag */
+.p2{
+    background-color: plum;
+    border-left: 10px solid blueviolet;
+    border-radius: 5px;
+    box-shadow: 5px 5px 20px blueviolet;
+    margin: 15px;
+    margin-bottom: 25px;
+    padding: 5px;
+}
+.p3{
+    background-color: lightcoral;
+    border-left: 10px solid red;
+    border-radius: 5px;
+    margin: 15px;
+    margin-bottom: 25px;
+    padding: 5px;
+    box-shadow: 5px 5px 20px firebrick;
+}
+.p4{
+    background-color: lightblue;
+    border-left: 10px solid red;
+    border-radius: 5px;
+    margin: 15px;
+    padding: 5px;
+    box-shadow: 5px 5px 20px paleturquoise;
+}
+   /* Combinor    */
